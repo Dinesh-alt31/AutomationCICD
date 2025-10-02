@@ -22,7 +22,7 @@ import FrameworkBuildTestNgMain.pageObjects.ProductCatalogue;
 
 
 public class SubmitOrderTest extends BaseTest {
-
+//ADDING COMMENT FOR CICD INTEGRATION DEMO CHECK
 		// TODO Auto-generated method stub
 	String productName = "ZARA COAT 3";
 	
