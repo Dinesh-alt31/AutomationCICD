@@ -17,7 +17,7 @@ import FrameworkBuildTestNgMain.pageObjects.CartPage;
 import FrameworkBuildTestNgMain.pageObjects.OrderHistoryPage;
 
 public class AbstractComponent {
-	
+	//testing in headless mode
 	WebDriver driver;
 	WebDriverWait wait;
 	JavascriptExecutor js;
